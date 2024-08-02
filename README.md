@@ -1,16 +1,16 @@
-## Hi there 👋
+# Portfolio
 
-<!--
-**Anirruth/Anirruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Account Links
 
-Here are some ideas to get you started:
+- Immunefi - https://immunefi.com/profile/anirruth/
+- Code4rena - https://code4rena.com/@Anirruth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contests
+
+| Contest    |Platform|Ranking 🏆   | Findings 🔎|
+|------------|---------|-----------|----------|
+| [Arcade](https://code4rena.com/reports/2023-07-arcade#overview)| C4 |**#11**| [1H](https://github.com/code-423n4/2023-07-arcade-findings/issues/70)|
+
+## Bug Bounty
+
+- One Ring - High
