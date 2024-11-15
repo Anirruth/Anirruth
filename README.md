@@ -13,6 +13,7 @@
 | Dopex| C4 |**-**| 1H|
 | Wildcat| C4 | **-** | 1M|
 | LoopFi| C4 | #55 | 1M|
+| Symbiotic| Cantina | - | 1M|
 
 ## Bug Bounty
 
