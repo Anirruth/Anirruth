@@ -4,6 +4,7 @@
 
 - Immunefi - https://immunefi.com/profile/anirruth/
 - Code4rena - https://code4rena.com/@Anirruth
+- Sherlock - https://audits.sherlock.xyz/watson/Anirruth
 
 ## Contests
 
