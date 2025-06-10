@@ -5,6 +5,7 @@ Web3 security research portfolio:
 
 - Immunefi - https://immunefi.com/profile/anirruth/
 - Code4rena - https://code4rena.com/@Anirruth
+- Cantina - https://cantina.xyz/u/Anirruth
 - Sherlock - [Account](https://audits.sherlock.xyz/watson/anirruth_)
 - Codehawks - https://profiles.cyfrin.io/u/anirruth
 
